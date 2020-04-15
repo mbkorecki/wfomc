@@ -1,0 +1,9 @@
+d people 10
+
+p diabetes(X)
+p BMI(X)
+p f(X)
+
+!diabetes(X) v BMI(X) v !f(X)
+diabetes(X) v f(X)
+!BMI(X) v f(X)

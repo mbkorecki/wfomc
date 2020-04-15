@@ -1,0 +1,23 @@
+// Automatically translated from BLOG into MLN format:
+xe = {X1, X2, X3, X4}
+ye = {Y1, Y2, Y3, Y4}
+
+pe(xe)
+qe(xe,ye)
+
+-0.6951491832 !pe(x)
+-0.6911491779 pe(x)
+
+-1.2039728043 !qe(x,y)
+-0.3566749439 qe(x,y)
+
+-0.9162907319 !qe(x,y) ^ !pe(x)
+-0.9162907319 !qe(x,y) ^ pe(x)
+-0.9162907319 qe(x,y) ^ !pe(x)
+-0.5108256238 qe(x,y) ^ pe(x)
+
+// [Queries]
+// Queries are commented out, because they need to be passed via the console, not in the file.
+// The corresponding query strings are (1 per line):
+// pe(X1)
+// qe(X1,Y1)

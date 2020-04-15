@@ -1,0 +1,545 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+49 items
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$assemblySettings$1.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$assemblySettings$2.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$assemblySettings$3.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$assemblySettings$4$$anonfun$apply$1.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$assemblySettings$4.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$compileSettings$1.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$compileSettings$2.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$headerSettings$1.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$proguardSettings$1.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$proguardSettings$2.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$proguardSettings$3.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$proguardSettings$4.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$proguardSettings$5.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$proguardSettings$6$$anonfun$apply$2.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$proguardSettings$6.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$proguardSettings$7.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$proguardSettings$8.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$proguardSettings$9.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$sCoverageSettings$1.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$sCoverageSettings$2.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$sCoverageSettings$3.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$testSettings$1.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$testSettings$2.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$wfomcSettings$1.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$wfomcSettings$2.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$wfomcSettings$3.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$wfomcSettings$4.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/ExtraCommands$$anonfun$dist$1$$anonfun$apply$3.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/ExtraCommands$$anonfun$dist$1$$anonfun$apply$4.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/ExtraCommands$$anonfun$dist$1$$anonfun$apply$5.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/ExtraCommands$$anonfun$dist$1.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/ExtraCommands$$anonfun$dist_debug$1.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/ExtraCommands$$anonfun$stats$1$$anonfun$1.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/ExtraCommands$$anonfun$stats$1$$anonfun$2.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/ExtraCommands$$anonfun$stats$1$devnull$2$.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/ExtraCommands$$anonfun$stats$1.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/ExtraCommands$$anonfun$upload$1.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/ExtraCommands$.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/ExtraCommands.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/WFOMCBuild$$anonfun$main$1.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/WFOMCBuild$$anonfun$main$2.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/WFOMCBuild$$anonfun$main$3.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/WFOMCBuild$$anonfun$main$4.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/WFOMCBuild$$anonfun$main$5.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/WFOMCBuild$$anonfun$main$6.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/WFOMCBuild$.class
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/WFOMCBuild.class
+binary dependencies:
+17 items
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/rt.jar
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/.ivy2/cache/org.scala-sbt/actions/jars/actions-0.13.12.jar
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.12.jar
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.12.jar
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/.ivy2/cache/org.scala-sbt/command/jars/command-0.13.12.jar
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/.ivy2/cache/org.scala-sbt/io/jars/io-0.13.12.jar
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.12.jar
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.12.jar
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.12.jar
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/.ivy2/cache/org.scala-sbt/process/jars/process-0.13.12.jar
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.12.jar
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.12.jar
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/.ivy2/cache/scala_2.10/sbt_0.13/com.eed3si9n/sbt-assembly/jars/sbt-assembly-0.11.2.jar
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/.ivy2/cache/scala_2.10/sbt_0.13/com.typesafe.sbt/sbt-proguard/jars/sbt-proguard-0.2.2.jar
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/.ivy2/cache/scala_2.10/sbt_0.13/de.heikoseeberger/sbt-header/jars/sbt-header-1.5.0.jar
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/.ivy2/cache/scala_2.10/sbt_0.13/org.scoverage/sbt-scoverage/jars/sbt-scoverage-0.99.7.1.jar
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /Users/anon/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+49 items
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> BuildSettings
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> BuildSettings$
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> BuildSettings$$anonfun$assemblySettings$1
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> BuildSettings$$anonfun$assemblySettings$2
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> BuildSettings$$anonfun$assemblySettings$3
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> BuildSettings$$anonfun$assemblySettings$4
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> BuildSettings$$anonfun$assemblySettings$4$$anonfun$apply$1
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> BuildSettings$$anonfun$compileSettings$1
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> BuildSettings$$anonfun$compileSettings$2
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> BuildSettings$$anonfun$headerSettings$1
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> BuildSettings$$anonfun$proguardSettings$1
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> BuildSettings$$anonfun$proguardSettings$2
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> BuildSettings$$anonfun$proguardSettings$3
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> BuildSettings$$anonfun$proguardSettings$4
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> BuildSettings$$anonfun$proguardSettings$5
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> BuildSettings$$anonfun$proguardSettings$6
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> BuildSettings$$anonfun$proguardSettings$6$$anonfun$apply$2
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> BuildSettings$$anonfun$proguardSettings$7
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> BuildSettings$$anonfun$proguardSettings$8
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> BuildSettings$$anonfun$proguardSettings$9
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> BuildSettings$$anonfun$sCoverageSettings$1
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> BuildSettings$$anonfun$sCoverageSettings$2
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> BuildSettings$$anonfun$sCoverageSettings$3
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> BuildSettings$$anonfun$testSettings$1
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> BuildSettings$$anonfun$testSettings$2
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> BuildSettings$$anonfun$wfomcSettings$1
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> BuildSettings$$anonfun$wfomcSettings$2
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> BuildSettings$$anonfun$wfomcSettings$3
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> BuildSettings$$anonfun$wfomcSettings$4
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ExtraCommands
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ExtraCommands$
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ExtraCommands$$anonfun$dist$1
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ExtraCommands$$anonfun$dist$1$$anonfun$apply$3
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ExtraCommands$$anonfun$dist$1$$anonfun$apply$4
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ExtraCommands$$anonfun$dist$1$$anonfun$apply$5
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ExtraCommands$$anonfun$dist_debug$1
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ExtraCommands$$anonfun$stats$1
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ExtraCommands$$anonfun$stats$1$$anonfun$1
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ExtraCommands$$anonfun$stats$1$$anonfun$2
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ExtraCommands$$anonfun$stats$1$devnull$2$
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ExtraCommands$$anonfun$upload$1
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> WFOMCBuild
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> WFOMCBuild$
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> WFOMCBuild$$anonfun$main$1
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> WFOMCBuild$$anonfun$main$2
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> WFOMCBuild$$anonfun$main$3
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> WFOMCBuild$$anonfun$main$4
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> WFOMCBuild$$anonfun$main$5
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> WFOMCBuild$$anonfun$main$6
+used names:
+281 items
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> !!
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> !=
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> %
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> %%
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> **
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> +
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ++
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ++=
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> +=
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ->
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> /
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> :=
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> <<=
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> <byname>
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> <init>
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> <refinement>
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> <repeated>
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> A
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> AddSettings
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Any
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> AnyRef
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Apache2_0
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Append
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Argument
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ArrowAssoc
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> AssemblyKeys
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Attributed
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Attributes
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> B
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Boolean
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Build
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> BuildSettings
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> CanBuildFrom
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> CharSequence
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Classpath
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ClasspathDep
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Coll
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Command
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Compile
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ConfigKey
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Configuration
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Date
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Def
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Defaults
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Equals
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ExtraCommands
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Extracted
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> File
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> FileFilter
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Filtered
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> FullInstance
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Function0
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Function1
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> GenTraversableOnce
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> GroupArtifactID
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> GroupID
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> HeaderKey
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> HeaderPattern
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> HeaderPlugin
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Help
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Initialize
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> InitializeInstance
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> InputWrapper
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Int
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Keys
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> LinePosition
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> List
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> M
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> MacroValue
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Manifest
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Map
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Match
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ModuleID
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ModuleIDConfigurable
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> NameFilter
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> None
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Nothing
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Object
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Option
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Path
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> PathFinder
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Plugin
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Predef
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ProcessBuilder
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ProcessLogger
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Proguard
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ProguardKeys
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ProguardMerge
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ProguardOptions
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Project
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ProjectReference
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Regex
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ResolvedProject
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> RichAttributed
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> RichFile
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> RichInitializeTask
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> S
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> SbtProguard
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Scoped
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ScoverageCompile
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ScoverageKeys
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ScoverageSbtPlugin
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Seq
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Sequence
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Setting
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> SettingKey
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> SettingsDefinition
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Some
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> SourcePosition
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> State
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Stream
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> String
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> StringOps
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> System
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> T
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Task
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> TaskKey
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Test
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> TestOption
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Tests
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> That
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Tuple2
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> U
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Unit
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> V
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Value
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> Values
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> WFOMCBuild
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> _$1
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> _$2
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> _$34
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> _$9
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> _1
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> _2
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> _3
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> _4
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> _root_
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> addCommandAlias
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> any2ArrowAssoc
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> append
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> append1
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> appendN
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> appendSeq
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> apply
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> assembleArtifact
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> assembly
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> assemblySettings
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> augmentString
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> autoImport
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> base
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> buildJarName
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> buildJarNameDebug
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> buildMainClass
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> buildName
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> buildOrganization
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> buildScalaVersion
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> buildScalaVersionMajor
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> buildVersion
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> canBuildFrom
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> collection
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> com
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> command
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> commands
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> compileSettings
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> configurationToKey
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> contains
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> cp
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> createAllHeaders
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> curdir
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> currBranch
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> currProject
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> current
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> currentProject
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> customCommands
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> data
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> de
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> defaultSettings
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> dependencyClasspath
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> devnull
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> dist
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> distdir
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> docSettings
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> el
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> excludedJars
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> excludedPackages
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> exportJars
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> extract
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> f
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> file
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> files
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> filter
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> filteredInputs
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> findFirstMatchIn
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> foreach
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> format
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> fullClasspath
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> get
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> getAbsolutePath
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> getName
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> getOrElse
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> getParent
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> gitBranches
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> globFilter
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> group
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> headerSettings
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> headers
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> heikoseeberger
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> highlighting
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> id
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> immutable
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> in
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> indexOf
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> inputFilter
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> inputs
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> instrumentSettings
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> jar
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> jarName
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> java
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> javaOptions
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> keepMain
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> lang
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> libraryDependencies
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> license
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> lines_!
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> macroValueIT
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> main
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> mainClass
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> makeString
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> map
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> merge
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> mergeStrategies
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> mkString
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> moduleIDConfigurable
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> name
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> noFilter
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> options
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> organization
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> package
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> packageBin
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> println
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> productionScalacFlags
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> proguard
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> proguardSettings
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> pure
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> r
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> richAttributed
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> richFile
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> richInitializeTask
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> sCoverageSettings
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> sbt
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> sbtassembly
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> sbtheader
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> scala
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> scalaVersion
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> scalacOptions
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> scoverage
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> set
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> settings
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> singleFileFinder
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> srcfiles
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> srcfilesj
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> state
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> stats
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> stringToProcess
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> test
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> testOptions
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> testScalacFlags
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> testSettings
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> toGroupID
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> toLowerCase
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> typesafe
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> unary_!
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> upload
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> util
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> value
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> version
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> wfomcDeps
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> wfomcSettings
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> wrapInitTask_☃☃
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> xmlfiles
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> ||
+product stamps:
+49 items
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$assemblySettings$1.class -> lastModified(1585155544000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$assemblySettings$2.class -> lastModified(1585155544000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$assemblySettings$3.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$assemblySettings$4$$anonfun$apply$1.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$assemblySettings$4.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$compileSettings$1.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$compileSettings$2.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$headerSettings$1.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$proguardSettings$1.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$proguardSettings$2.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$proguardSettings$3.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$proguardSettings$4.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$proguardSettings$5.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$proguardSettings$6$$anonfun$apply$2.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$proguardSettings$6.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$proguardSettings$7.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$proguardSettings$8.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$proguardSettings$9.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$sCoverageSettings$1.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$sCoverageSettings$2.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$sCoverageSettings$3.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$testSettings$1.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$testSettings$2.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$wfomcSettings$1.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$wfomcSettings$2.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$wfomcSettings$3.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$wfomcSettings$4.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$.class -> lastModified(1585155544000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/BuildSettings.class -> lastModified(1585155544000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/ExtraCommands$$anonfun$dist$1$$anonfun$apply$3.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/ExtraCommands$$anonfun$dist$1$$anonfun$apply$4.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/ExtraCommands$$anonfun$dist$1$$anonfun$apply$5.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/ExtraCommands$$anonfun$dist$1.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/ExtraCommands$$anonfun$dist_debug$1.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/ExtraCommands$$anonfun$stats$1$$anonfun$1.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/ExtraCommands$$anonfun$stats$1$$anonfun$2.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/ExtraCommands$$anonfun$stats$1$devnull$2$.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/ExtraCommands$$anonfun$stats$1.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/ExtraCommands$$anonfun$upload$1.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/ExtraCommands$.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/ExtraCommands.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/WFOMCBuild$$anonfun$main$1.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/WFOMCBuild$$anonfun$main$2.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/WFOMCBuild$$anonfun$main$3.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/WFOMCBuild$$anonfun$main$4.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/WFOMCBuild$$anonfun$main$5.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/WFOMCBuild$$anonfun$main$6.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/WFOMCBuild$.class -> lastModified(1585155545000)
+/Users/anon/Desktop/ai/msc/wfomc/project/target/scala-2.10/sbt-0.13/classes/WFOMCBuild.class -> lastModified(1585155545000)
+source stamps:
+1 items
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> hash(03dbf772e5d9d1762b4778e9f42cc3d71a14da1f)
+binary stamps:
+17 items
+/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1579445320000)
+/Users/anon/.ivy2/cache/org.scala-sbt/actions/jars/actions-0.13.12.jar -> lastModified(1468641370000)
+/Users/anon/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.12.jar -> lastModified(1468641120000)
+/Users/anon/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.12.jar -> lastModified(1468641184000)
+/Users/anon/.ivy2/cache/org.scala-sbt/command/jars/command-0.13.12.jar -> lastModified(1468641307000)
+/Users/anon/.ivy2/cache/org.scala-sbt/io/jars/io-0.13.12.jar -> lastModified(1468641094000)
+/Users/anon/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.12.jar -> lastModified(1468641247000)
+/Users/anon/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.12.jar -> lastModified(1468641342000)
+/Users/anon/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.12.jar -> lastModified(1468641400000)
+/Users/anon/.ivy2/cache/org.scala-sbt/process/jars/process-0.13.12.jar -> lastModified(1468641111000)
+/Users/anon/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.12.jar -> lastModified(1468641420000)
+/Users/anon/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.12.jar -> lastModified(1468641264000)
+/Users/anon/.ivy2/cache/scala_2.10/sbt_0.13/com.eed3si9n/sbt-assembly/jars/sbt-assembly-0.11.2.jar -> lastModified(1395262337000)
+/Users/anon/.ivy2/cache/scala_2.10/sbt_0.13/com.typesafe.sbt/sbt-proguard/jars/sbt-proguard-0.2.2.jar -> lastModified(1375163234000)
+/Users/anon/.ivy2/cache/scala_2.10/sbt_0.13/de.heikoseeberger/sbt-header/jars/sbt-header-1.5.0.jar -> lastModified(1428661282000)
+/Users/anon/.ivy2/cache/scala_2.10/sbt_0.13/org.scoverage/sbt-scoverage/jars/sbt-scoverage-0.99.7.1.jar -> lastModified(1407110285000)
+/Users/anon/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> lastModified(1442568926000)
+class names:
+17 items
+/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/anon/.ivy2/cache/org.scala-sbt/actions/jars/actions-0.13.12.jar -> sbt.Tests$
+/Users/anon/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.12.jar -> sbt.appmacro.Instance$
+/Users/anon/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.12.jar -> sbt.SourcePosition
+/Users/anon/.ivy2/cache/org.scala-sbt/command/jars/command-0.13.12.jar -> sbt.Command$
+/Users/anon/.ivy2/cache/org.scala-sbt/io/jars/io-0.13.12.jar -> sbt.RichFile
+/Users/anon/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.12.jar -> sbt.impl.GroupArtifactID
+/Users/anon/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.12.jar -> sbt.SettingKey
+/Users/anon/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.12.jar -> sbt.Build
+/Users/anon/.ivy2/cache/org.scala-sbt/process/jars/process-0.13.12.jar -> sbt.ProcessLogger
+/Users/anon/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.12.jar -> sbt.package$
+/Users/anon/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.12.jar -> sbt.Task
+/Users/anon/.ivy2/cache/scala_2.10/sbt_0.13/com.eed3si9n/sbt-assembly/jars/sbt-assembly-0.11.2.jar -> sbtassembly.Plugin$
+/Users/anon/.ivy2/cache/scala_2.10/sbt_0.13/com.typesafe.sbt/sbt-proguard/jars/sbt-proguard-0.2.2.jar -> com.typesafe.sbt.SbtProguard
+/Users/anon/.ivy2/cache/scala_2.10/sbt_0.13/de.heikoseeberger/sbt-header/jars/sbt-header-1.5.0.jar -> de.heikoseeberger.sbtheader.HeaderPattern$
+/Users/anon/.ivy2/cache/scala_2.10/sbt_0.13/org.scoverage/sbt-scoverage/jars/sbt-scoverage-0.99.7.1.jar -> scoverage.ScoverageSbtPlugin$
+/Users/anon/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> scala.collection.immutable.Map
+internal apis:
+1 items
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwQRFxNgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA2c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwMddbuHQABm5vdGlmeXNxAH4ADI08Ie50AA1FeHRyYUNvbW1hbmRzc3EAfgAMFOFZ8nQAEGNyZWF0ZUFsbEhlYWRlcnNzcQB+AAwbcXiudAARYnVpbGRPcmdhbml6YXRpb25zcQB+AAwfNvsSdAAOYnVpbGRNYWluQ2xhc3NzcQB+AAwtSch1dAAEd2FpdHNxAH4ADIU9cq10AAVzdGF0c3NxAH4ADJg4SbB0AA0kYXNJbnN0YW5jZU9mc3EAfgAMScqh63QADGJ1aWxkSmFyTmFtZXNxAH4ADIj5+Vl0AAxidWlsZExvYWRlcnNzcQB+AAxYIlnBdAAMYnVpbGRWZXJzaW9uc3EAfgAME+PCwnQAEGFzc2VtYmx5U2V0dGluZ3NzcQB+AAxodOAldAAGZXF1YWxzc3EAfgAMuksFuHQADXdmb21jU2V0dGluZ3NzcQB+AAyVfufHdAAMYXNJbnN0YW5jZU9mc3EAfgAM/FJLJnQAEnByb2plY3REZWZpbml0aW9uc3NxAH4ADND2jLt0AAx0ZXN0U2V0dGluZ3NzcQB+AAwsQbqzdAAMc3luY2hyb25pemVkc3EAfgAMvF74N3QAD2NvbXBpbGVTZXR0aW5nc3NxAH4ADA/8HDV0ABFidWlsZEphck5hbWVEZWJ1Z3NxAH4ADJV0bSV0AA0kaXNJbnN0YW5jZU9mc3EAfgAMnK/eV3QAEHByb2d1YXJkU2V0dGluZ3NzcQB+AAzHNvTOdAAEbWFpbnNxAH4ADEvoFGl0AA90ZXN0U2NhbGFjRmxhZ3NzcQB+AAz5KQ82dAAJbm90aWZ5QWxsc3EAfgAMJ+lpcHQAC3Jvb3RQcm9qZWN0c3EAfgAMBwukiHQACldGT01DQnVpbGRzcQB+AAwZ3y/adAAMaXNJbnN0YW5jZU9mc3EAfgAMc7bddXQAEWJ1aWxkU2NhbGFWZXJzaW9uc3EAfgAMGfbbtHQABGRpc3RzcQB+AAyMb/lrdAAJd2ZvbWNEZXBzc3EAfgAM7zg/PHQAEXNDb3ZlcmFnZVNldHRpbmdzc3EAfgAM1cL0PHQADmN1c3RvbUNvbW1hbmRzc3EAfgAMyRHO/HQAAj09c3EAfgAMyEpRH3QABWNsb25lc3EAfgAM6JhFB3QABnVwbG9hZHNxAH4ADOnTbc90AAYkaW5pdCRzcQB+AAz5TajcdAAJYnVpbGROYW1lc3EAfgAMrsz1uHQAFXByb2R1Y3Rpb25TY2FsYWNGbGFnc3NxAH4ADARwcbN0AAh0b1N0cmluZ3NxAH4ADFCwnG10AAIhPXNxAH4ADKERuhF0AApkaXN0X2RlYnVnc3EAfgAM/ujRt3QACHByb2plY3Rzc3EAfgAMl6YttHQACGdldENsYXNzc3EAfgAMGnnA5XQADUJ1aWxkU2V0dGluZ3NzcQB+AAwXGg2MdAACbmVzcQB+AAzL5P7ydAALZG9jU2V0dGluZ3NzcQB+AAx+MZwudAAOaGVhZGVyU2V0dGluZ3NzcQB+AAzH6HaYdAACZXFzcQB+AAxL6E43dAAIc2V0dGluZ3NzcQB+AAwWINJXdAACIyNzcQB+AAxc/twDdAAIZmluYWxpemVzcQB+AAzWMCLEdAAIaGFzaENvZGVzcQB+AAxiMpqcdAAWYnVpbGRTY2FsYVZlcnNpb25NYWpvcnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAANzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AIN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AZ3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AmnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCDTAAJaW5oZXJpdGVkcQB+AINMAAdwYXJlbnRzcQB+AIN4cQB+AJ9zcQB+AJp1cQB+AH4AAAAAc3EAfgCadXEAfgB+AAAAAHNxAH4AmnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AnnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AnnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4At3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AuHNxAH4Aq3QAA0FueXNxAH4Ar3NxAH4AsnVxAH4AtQAAAAJzcQB+ALd0AAVzY2FsYXEAfgC+c3EAfgCAcQB+AI11cQB+AI4AAAAAc3EAfgCQAHEAfgBDdXEAfgCSAAAAAHEAfgCWdXEAfgCYAAAAAHNxAH4AmnEAfgCgc3EAfgCac3EAfgCic3EAfgCadXEAfgB+AAAAAHNxAH4AmnVxAH4AfgAAAABzcQB+AJp1cQB+AKkAAAADc3EAfgCrdAAFQnVpbGRzcQB+AK9zcQB+ALJ1cQB+ALUAAAACc3EAfgC3dAADc2J0cQB+AL5zcQB+AKtxAH4ArnNxAH4Ar3NxAH4AsnVxAH4AtQAAAANzcQB+ALdxAH4AunNxAH4At3EAfgC8cQB+AL5zcQB+AKtxAH4AwHNxAH4Ar3NxAH4AsnVxAH4AtQAAAAJzcQB+ALdxAH4AxXEAfgC+c3EAfgCAcQB+AI11cQB+AI4AAAAAc3EAfgCQAHEAfgARdXEAfgCSAAAAAHEAfgCWdXEAfgCYAAAAAHNxAH4AmnEAfgCgc3EAfgCac3EAfgCic3EAfgCadXEAfgB+AAAAAHNxAH4AmnVxAH4AfgAAAABzcQB+AJp1cQB+AKkAAAACc3EAfgCrcQB+AK5zcQB+AK9zcQB+ALJ1cQB+ALUAAAADc3EAfgC3cQB+ALpzcQB+ALdxAH4AvHEAfgC+c3EAfgCrcQB+AMBzcQB+AK9zcQB+ALJ1cQB+ALUAAAACc3EAfgC3cQB+AMVxAH4AvnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFxEqICCnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEsvVXNlcnMvYW5vbi9EZXNrdG9wL2FpL21zYy93Zm9tYy9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQD2/dy5dnRditHeOn0LMPXGhTaHw==
+external apis:
+0 items
+source infos:
+1 items
+/Users/anon/Desktop/ai/msc/wfomc/project/Build.scala -> 
+AAAAAAAAABgAAAEAAACHACFvYmplY3QgV0ZPTUNCdWlsZCBleHRlbmRzIEJ1aWxkIHsBAAAT0AEAAAAaAQAaICAgICAgICAgICAgICAgICAgICAgICAgICABADQvVXNlcnMvYW5vbi9EZXNrdG9wL2FpL21zYy93Zm9tYy9wcm9qZWN0L0J1aWxkLnNjYWxhAQA0L1VzZXJzL2Fub24vRGVza3RvcC9haS9tc2Mvd2ZvbWMvcHJvamVjdC9CdWlsZC5zY2FsYQBBdHJhaXQgQnVpbGQgaW4gcGFja2FnZSBzYnQgaXMgZGVwcmVjYXRlZDogVXNlIC5zYnQgZm9ybWF0IGluc3RlYWQBAAABAAAApQAqICAgIC5zZXR0aW5ncyhEZWZhdWx0cy5kZWZhdWx0U2V0dGluZ3M6XyopAQAAGHoBAAAAFwEAFyAgICAgICAgICAgICAgICAgICAgICAgAQA0L1VzZXJzL2Fub24vRGVza3RvcC9haS9tc2Mvd2ZvbWMvcHJvamVjdC9CdWlsZC5zY2FsYQEANC9Vc2Vycy9hbm9uL0Rlc2t0b3AvYWkvbXNjL3dmb21jL3Byb2plY3QvQnVpbGQuc2NhbGEAiHZhbHVlIGRlZmF1bHRTZXR0aW5ncyBpbiBvYmplY3QgRGVmYXVsdHMgaXMgZGVwcmVjYXRlZDogRGVmYXVsdCBzZXR0aW5ncyBzcGxpdCBpbnRvIGNvcmVEZWZhdWx0U2V0dGluZ3MgYW5kIEl2eU1vZHVsZS9Kdm1Nb2R1bGUgcGx1Z2lucy4BAAABAAAAzwAmICAgIHZhbCBjdXJkaXI6U3RyaW5nID0gKCIiInB3ZCIiIiAhISkBAAAd0AEAAAAjAQAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABADQvVXNlcnMvYW5vbi9EZXNrdG9wL2FpL21zYy93Zm9tYy9wcm9qZWN0L0J1aWxkLnNjYWxhAQA0L1VzZXJzL2Fub24vRGVza3RvcC9haS9tc2Mvd2ZvbWMvcHJvamVjdC9CdWlsZC5zY2FsYQFncG9zdGZpeCBvcGVyYXRvciAhISBzaG91bGQgYmUgZW5hYmxlZApieSBtYWtpbmcgdGhlIGltcGxpY2l0IHZhbHVlIHNjYWxhLmxhbmd1YWdlLnBvc3RmaXhPcHMgdmlzaWJsZS4KVGhpcyBjYW4gYmUgYWNoaWV2ZWQgYnkgYWRkaW5nIHRoZSBpbXBvcnQgY2xhdXNlICdpbXBvcnQgc2NhbGEubGFuZ3VhZ2UucG9zdGZpeE9wcycKb3IgYnkgc2V0dGluZyB0aGUgY29tcGlsZXIgb3B0aW9uIC1sYW5ndWFnZTpwb3N0Zml4T3BzLgpTZWUgdGhlIFNjYWxhIGRvY3MgZm9yIHZhbHVlIHNjYWxhLmxhbmd1YWdlLnBvc3RmaXhPcHMgZm9yIGEgZGlzY3Vzc2lvbgp3aHkgdGhlIGZlYXR1cmUgc2hvdWxkIGJlIGV4cGxpY2l0bHkgZW5hYmxlZC4BAAABAAAA0QA+ICAgIHByaW50bG4oIkRlbGV0aW5nICIrZGlzdGRpcisiLiAiICsgKCJybSAtcmYgIitkaXN0ZGlyICEhKSkBAAAeIgEAAAA6AQA6ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAEANC9Vc2Vycy9hbm9uL0Rlc2t0b3AvYWkvbXNjL3dmb21jL3Byb2plY3QvQnVpbGQuc2NhbGEBADQvVXNlcnMvYW5vbi9EZXNrdG9wL2FpL21zYy93Zm9tYy9wcm9qZWN0L0J1aWxkLnNjYWxhAGVwb3N0Zml4IG9wZXJhdG9yICEhIHNob3VsZCBiZSBlbmFibGVkCmJ5IG1ha2luZyB0aGUgaW1wbGljaXQgdmFsdWUgc2NhbGEubGFuZ3VhZ2UucG9zdGZpeE9wcyB2aXNpYmxlLgEAAAEAAADSAEogICAgcHJpbnRsbigiQ3JlYXRpbmcgIitkaXN0ZGlyKyIuICIgKyAoIm1rZGlyIC1wICIrZGlzdGRpcisiL21vZGVscyIgISEpKQEAAB5tAQAAAEYBAEYgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgAQA0L1VzZXJzL2Fub24vRGVza3RvcC9haS9tc2Mvd2ZvbWMvcHJvamVjdC9CdWlsZC5zY2FsYQEANC9Vc2Vycy9hbm9uL0Rlc2t0b3AvYWkvbXNjL3dmb21jL3Byb2plY3QvQnVpbGQuc2NhbGEAZXBvc3RmaXggb3BlcmF0b3IgISEgc2hvdWxkIGJlIGVuYWJsZWQKYnkgbWFraW5nIHRoZSBpbXBsaWNpdCB2YWx1ZSBzY2FsYS5sYW5ndWFnZS5wb3N0Zml4T3BzIHZpc2libGUuAQAAAQAAANMAQiAgICBwcmludGxuKCJDb3B5aW5nIHNidC4gIiArICgibWtkaXIgLXAgIitkaXN0ZGlyKyIvcHJvamVjdCIgISEpKQEAAB6wAQAAAD4BAD4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAEANC9Vc2Vycy9hbm9uL0Rlc2t0b3AvYWkvbXNjL3dmb21jL3Byb2plY3QvQnVpbGQuc2NhbGEBADQvVXNlcnMvYW5vbi9EZXNrdG9wL2FpL21zYy93Zm9tYy9wcm9qZWN0L0J1aWxkLnNjYWxhAGVwb3N0Zml4IG9wZXJhdG9yICEhIHNob3VsZCBiZSBlbmFibGVkCmJ5IG1ha2luZyB0aGUgaW1wbGljaXQgdmFsdWUgc2NhbGEubGFuZ3VhZ2UucG9zdGZpeE9wcyB2aXNpYmxlLgEAAAEAAADUAFEgICAgcHJpbnRsbigiQ29weWluZyBzYnQuICIgKyAoImNwIHByb2plY3QvQnVpbGQuc2NhbGEgIitkaXN0ZGlyKyIvcHJvamVjdC8iICEhKSkBAAAfAgEAAABNAQBNICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABADQvVXNlcnMvYW5vbi9EZXNrdG9wL2FpL21zYy93Zm9tYy9wcm9qZWN0L0J1aWxkLnNjYWxhAQA0L1VzZXJzL2Fub24vRGVza3RvcC9haS9tc2Mvd2ZvbWMvcHJvamVjdC9CdWlsZC5zY2FsYQBlcG9zdGZpeCBvcGVyYXRvciAhISBzaG91bGQgYmUgZW5hYmxlZApieSBtYWtpbmcgdGhlIGltcGxpY2l0IHZhbHVlIHNjYWxhLmxhbmd1YWdlLnBvc3RmaXhPcHMgdmlzaWJsZS4BAAABAAAA1QBRICAgIHByaW50bG4oIkNvcHlpbmcgc2J0LiAiICsgKCJjcCBwcm9qZWN0L3BsdWdpbi5zYnQgIiArZGlzdGRpcisiL3Byb2plY3QvIiAhISkpAQAAH1QBAAAATQEATSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgAQA0L1VzZXJzL2Fub24vRGVza3RvcC9haS9tc2Mvd2ZvbWMvcHJvamVjdC9CdWlsZC5zY2FsYQEANC9Vc2Vycy9hbm9uL0Rlc2t0b3AvYWkvbXNjL3dmb21jL3Byb2plY3QvQnVpbGQuc2NhbGEAZXBvc3RmaXggb3BlcmF0b3IgISEgc2hvdWxkIGJlIGVuYWJsZWQKYnkgbWFraW5nIHRoZSBpbXBsaWNpdCB2YWx1ZSBzY2FsYS5sYW5ndWFnZS5wb3N0Zml4T3BzIHZpc2libGUuAQAAAQAAANgA4SAgICBwcmludGxuKCJDb3B5aW5nIGphci4gIiArICgiY3AgdGFyZ2V0L3NjYWxhLSIrQnVpbGRTZXR0aW5ncy5idWlsZFNjYWxhVmVyc2lvbk1ham9yKyIvcHJvZ3VhcmQvd2ZvbWNfIitCdWlsZFNldHRpbmdzLmJ1aWxkU2NhbGFWZXJzaW9uTWFqb3IrIi0iK0J1aWxkU2V0dGluZ3MuYnVpbGRWZXJzaW9uKyIuamFyICIrZGlzdGRpcisiLyIrQnVpbGRTZXR0aW5ncy5idWlsZEphck5hbWUgISEpKQEAACC/AQAAAN0BAN0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAEANC9Vc2Vycy9hbm9uL0Rlc2t0b3AvYWkvbXNjL3dmb21jL3Byb2plY3QvQnVpbGQuc2NhbGEBADQvVXNlcnMvYW5vbi9EZXNrdG9wL2FpL21zYy93Zm9tYy9wcm9qZWN0L0J1aWxkLnNjYWxhAGVwb3N0Zml4IG9wZXJhdG9yICEhIHNob3VsZCBiZSBlbmFibGVkCmJ5IG1ha2luZyB0aGUgaW1wbGljaXQgdmFsdWUgc2NhbGEubGFuZ3VhZ2UucG9zdGZpeE9wcyB2aXNpYmxlLgEAAAEAAADaAEcgICAgcHJpbnRsbigiQ29weWluZyBSRUFETUUubWQuICIgICsgKCJjcCBSRUFETUUubWQgIiArZGlzdGRpcisiLyIgISEpKQEAACHcAQAAAEMBAEMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgAQA0L1VzZXJzL2Fub24vRGVza3RvcC9haS9tc2Mvd2ZvbWMvcHJvamVjdC9CdWlsZC5zY2FsYQEANC9Vc2Vycy9hbm9uL0Rlc2t0b3AvYWkvbXNjL3dmb21jL3Byb2plY3QvQnVpbGQuc2NhbGEAZXBvc3RmaXggb3BlcmF0b3IgISEgc2hvdWxkIGJlIGVuYWJsZWQKYnkgbWFraW5nIHRoZSBpbXBsaWNpdCB2YWx1ZSBzY2FsYS5sYW5ndWFnZS5wb3N0Zml4T3BzIHZpc2libGUuAQAAAQAAANsAQSAgICBwcmludGxuKCJDb3B5aW5nIExJQ0VOU0UuICIgKyAoImNwIExJQ0VOU0UgIitkaXN0ZGlyKyIvIiAhISkpAQAAIh4BAAAAPQEAPSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABADQvVXNlcnMvYW5vbi9EZXNrdG9wL2FpL21zYy93Zm9tYy9wcm9qZWN0L0J1aWxkLnNjYWxhAQA0L1VzZXJzL2Fub24vRGVza3RvcC9haS9tc2Mvd2ZvbWMvcHJvamVjdC9CdWlsZC5zY2FsYQBlcG9zdGZpeCBvcGVyYXRvciAhISBzaG91bGQgYmUgZW5hYmxlZApieSBtYWtpbmcgdGhlIGltcGxpY2l0IHZhbHVlIHNjYWxhLmxhbmd1YWdlLnBvc3RmaXhPcHMgdmlzaWJsZS4BAAABAAAA3AAsICAgIHByaW50bG4oKCJta2RpciAtcCAiK2Rpc3RkaXIrIi9kb2MiICEhKSkBAAAiSwEAAAAoAQAoICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAEANC9Vc2Vycy9hbm9uL0Rlc2t0b3AvYWkvbXNjL3dmb21jL3Byb2plY3QvQnVpbGQuc2NhbGEBADQvVXNlcnMvYW5vbi9EZXNrdG9wL2FpL21zYy93Zm9tYy9wcm9qZWN0L0J1aWxkLnNjYWxhAGVwb3N0Zml4IG9wZXJhdG9yICEhIHNob3VsZCBiZSBlbmFibGVkCmJ5IG1ha2luZyB0aGUgaW1wbGljaXQgdmFsdWUgc2NhbGEubGFuZ3VhZ2UucG9zdGZpeE9wcyB2aXNpYmxlLgEAAAEAAADdAFAgICAgcHJpbnRsbigiQ29weWluZyBkb2NzLiAiICsgKCJjcCBkb2Mvd2ZvbWNfbWFudWFsLmh0bWwgIitkaXN0ZGlyKyIvZG9jLyIgISEpKQEAACKcAQAAAEwBAEwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgAQA0L1VzZXJzL2Fub24vRGVza3RvcC9haS9tc2Mvd2ZvbWMvcHJvamVjdC9CdWlsZC5zY2FsYQEANC9Vc2Vycy9hbm9uL0Rlc2t0b3AvYWkvbXNjL3dmb21jL3Byb2plY3QvQnVpbGQuc2NhbGEAZXBvc3RmaXggb3BlcmF0b3IgISEgc2hvdWxkIGJlIGVuYWJsZWQKYnkgbWFraW5nIHRoZSBpbXBsaWNpdCB2YWx1ZSBzY2FsYS5sYW5ndWFnZS5wb3N0Zml4T3BzIHZpc2libGUuAQAAAQAAAN4AUCAgICBwcmludGxuKCJDb3B5aW5nIGRvY3MuICIgKyAoImNwIGRvYy93Zm9tY19tYW51YWwucGRmICAiK2Rpc3RkaXIrIi9kb2MvIiAhISkpAQAAIu0BAAAATAEATCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABADQvVXNlcnMvYW5vbi9EZXNrdG9wL2FpL21zYy93Zm9tYy9wcm9qZWN0L0J1aWxkLnNjYWxhAQA0L1VzZXJzL2Fub24vRGVza3RvcC9haS9tc2Mvd2ZvbWMvcHJvamVjdC9CdWlsZC5zY2FsYQBlcG9zdGZpeCBvcGVyYXRvciAhISBzaG91bGQgYmUgZW5hYmxlZApieSBtYWtpbmcgdGhlIGltcGxpY2l0IHZhbHVlIHNjYWxhLmxhbmd1YWdlLnBvc3RmaXhPcHMgdmlzaWJsZS4BAAABAAAA3wBDICAgIHByaW50bG4oIkNvcHlpbmcgbW9kZWxzLiAiICsgKCJjcCAtUiBtb2RlbHMgICIrZGlzdGRpcisiLyIgISEpKQEAACMxAQAAAD8BAD8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABADQvVXNlcnMvYW5vbi9EZXNrdG9wL2FpL21zYy93Zm9tYy9wcm9qZWN0L0J1aWxkLnNjYWxhAQA0L1VzZXJzL2Fub24vRGVza3RvcC9haS9tc2Mvd2ZvbWMvcHJvamVjdC9CdWlsZC5zY2FsYQBlcG9zdGZpeCBvcGVyYXRvciAhISBzaG91bGQgYmUgZW5hYmxlZApieSBtYWtpbmcgdGhlIGltcGxpY2l0IHZhbHVlIHNjYWxhLmxhbmd1YWdlLnBvc3RmaXhPcHMgdmlzaWJsZS4BAAABAAAA6QA9ICAgICAgICBwcmludGxuKCgibWtkaXIgLXAgIiArIGRpc3RkaXIrIi8iK2YuZ2V0UGFyZW50KCkgISEpKQEAACZqAQAAADkBADkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABADQvVXNlcnMvYW5vbi9EZXNrdG9wL2FpL21zYy93Zm9tYy9wcm9qZWN0L0J1aWxkLnNjYWxhAQA0L1VzZXJzL2Fub24vRGVza3RvcC9haS9tc2Mvd2ZvbWMvcHJvamVjdC9CdWlsZC5zY2FsYQBlcG9zdGZpeCBvcGVyYXRvciAhISBzaG91bGQgYmUgZW5hYmxlZApieSBtYWtpbmcgdGhlIGltcGxpY2l0IHZhbHVlIHNjYWxhLmxhbmd1YWdlLnBvc3RmaXhPcHMgdmlzaWJsZS4BAAABAAAA6gBPICAgICAgICBwcmludGxuKCJDb3B5aW5nIFNjYWxhIHNvdXJjZSBmaWxlcyAiICsgKCJjcCAiK2YrIiAiK2Rpc3RkaXIrIi8iK2YgISEpKQEAACa6AQAAAEsBAEsgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABADQvVXNlcnMvYW5vbi9EZXNrdG9wL2FpL21zYy93Zm9tYy9wcm9qZWN0L0J1aWxkLnNjYWxhAQA0L1VzZXJzL2Fub24vRGVza3RvcC9haS9tc2Mvd2ZvbWMvcHJvamVjdC9CdWlsZC5zY2FsYQBlcG9zdGZpeCBvcGVyYXRvciAhISBzaG91bGQgYmUgZW5hYmxlZApieSBtYWtpbmcgdGhlIGltcGxpY2l0IHZhbHVlIHNjYWxhLmxhbmd1YWdlLnBvc3RmaXhPcHMgdmlzaWJsZS4BAAABAAAA8AA9ICAgICAgICBwcmludGxuKCgibWtkaXIgLXAgIiArIGRpc3RkaXIrIi8iK2YuZ2V0UGFyZW50KCkgISEpKQEAACeKAQAAADkBADkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABADQvVXNlcnMvYW5vbi9EZXNrdG9wL2FpL21zYy93Zm9tYy9wcm9qZWN0L0J1aWxkLnNjYWxhAQA0L1VzZXJzL2Fub24vRGVza3RvcC9haS9tc2Mvd2ZvbWMvcHJvamVjdC9CdWlsZC5zY2FsYQBlcG9zdGZpeCBvcGVyYXRvciAhISBzaG91bGQgYmUgZW5hYmxlZApieSBtYWtpbmcgdGhlIGltcGxpY2l0IHZhbHVlIHNjYWxhLmxhbmd1YWdlLnBvc3RmaXhPcHMgdmlzaWJsZS4BAAABAAAA8QBOICAgICAgICBwcmludGxuKCJDb3B5aW5nIEphdmEgc291cmNlIGZpbGVzICIgKyAoImNwICIrZisiICIrZGlzdGRpcisiLyIrZiAhISkpAQAAJ9kBAAAASgEASiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgAQA0L1VzZXJzL2Fub24vRGVza3RvcC9haS9tc2Mvd2ZvbWMvcHJvamVjdC9CdWlsZC5zY2FsYQEANC9Vc2Vycy9hbm9uL0Rlc2t0b3AvYWkvbXNjL3dmb21jL3Byb2plY3QvQnVpbGQuc2NhbGEAZXBvc3RmaXggb3BlcmF0b3IgISEgc2hvdWxkIGJlIGVuYWJsZWQKYnkgbWFraW5nIHRoZSBpbXBsaWNpdCB2YWx1ZSBzY2FsYS5sYW5ndWFnZS5wb3N0Zml4T3BzIHZpc2libGUuAQAAAQAAAPYAOyAgICAgIHByaW50bG4oKCJta2RpciAtcCAiICsgZGlzdGRpcisiLyIrZi5nZXRQYXJlbnQoKSAhISkpAQAAKIcBAAAANwEANyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABADQvVXNlcnMvYW5vbi9EZXNrdG9wL2FpL21zYy93Zm9tYy9wcm9qZWN0L0J1aWxkLnNjYWxhAQA0L1VzZXJzL2Fub24vRGVza3RvcC9haS9tc2Mvd2ZvbWMvcHJvamVjdC9CdWlsZC5zY2FsYQBlcG9zdGZpeCBvcGVyYXRvciAhISBzaG91bGQgYmUgZW5hYmxlZApieSBtYWtpbmcgdGhlIGltcGxpY2l0IHZhbHVlIHNjYWxhLmxhbmd1YWdlLnBvc3RmaXhPcHMgdmlzaWJsZS4BAAABAAAA9wBEICAgICAgcHJpbnRsbigiQ29weWluZyB4bWwgZmlsZXMgIiArICgiY3AgIitmKyIgIitkaXN0ZGlyKyIvIitmICEhKSkBAAAozAEAAABAAQBAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAEANC9Vc2Vycy9hbm9uL0Rlc2t0b3AvYWkvbXNjL3dmb21jL3Byb2plY3QvQnVpbGQuc2NhbGEBADQvVXNlcnMvYW5vbi9EZXNrdG9wL2FpL21zYy93Zm9tYy9wcm9qZWN0L0J1aWxkLnNjYWxhAGVwb3N0Zml4IG9wZXJhdG9yICEhIHNob3VsZCBiZSBlbmFibGVkCmJ5IG1ha2luZyB0aGUgaW1wbGljaXQgdmFsdWUgc2NhbGEubGFuZ3VhZ2UucG9zdGZpeE9wcyB2aXNpYmxlLgEAAAEAAAD5AEQgICAgcHJpbnRsbigiTWFraW5nIHppcC4gIiArICgiemlwIC1yICIrZGlzdGRpcisiLnppcCAiK2Rpc3RkaXIgISEpKQEAACkXAQAAAEABAEAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgAQA0L1VzZXJzL2Fub24vRGVza3RvcC9haS9tc2Mvd2ZvbWMvcHJvamVjdC9CdWlsZC5zY2FsYQEANC9Vc2Vycy9hbm9uL0Rlc2t0b3AvYWkvbXNjL3dmb21jL3Byb2plY3QvQnVpbGQuc2NhbGEAZXBvc3RmaXggb3BlcmF0b3IgISEgc2hvdWxkIGJlIGVuYWJsZWQKYnkgbWFraW5nIHRoZSBpbXBsaWNpdCB2YWx1ZSBzY2FsYS5sYW5ndWFnZS5wb3N0Zml4T3BzIHZpc2libGUuAQAAAQAAAL8ASCAgICBkZWYgZ2l0QnJhbmNoZXMgPSAoImdpdCBicmFuY2ggLS1uby1jb2xvciIgbGluZXNfISBkZXZudWxsIG1rU3RyaW5nKQEAABuiAQAAAD8BAD8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABADQvVXNlcnMvYW5vbi9EZXNrdG9wL2FpL21zYy93Zm9tYy9wcm9qZWN0L0J1aWxkLnNjYWxhAQA0L1VzZXJzL2Fub24vRGVza3RvcC9haS9tc2Mvd2ZvbWMvcHJvamVjdC9CdWlsZC5zY2FsYQBrcG9zdGZpeCBvcGVyYXRvciBta1N0cmluZyBzaG91bGQgYmUgZW5hYmxlZApieSBtYWtpbmcgdGhlIGltcGxpY2l0IHZhbHVlIHNjYWxhLmxhbmd1YWdlLnBvc3RmaXhPcHMgdmlzaWJsZS4BAAABAAABBgBbICAgIHByaW50bG4oKCJzY3AgIitkaXN0ZGlyKyIuemlwIHNzaC5jcy5rdWxldXZlbi5iZTovY3cvdnd3dy9kdGFpL3B1YmxpY19odG1sL1dGT01DLyIgISEpKQEAACrgAQAAAFcBAFcgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABADQvVXNlcnMvYW5vbi9EZXNrdG9wL2FpL21zYy93Zm9tYy9wcm9qZWN0L0J1aWxkLnNjYWxhAQA0L1VzZXJzL2Fub24vRGVza3RvcC9haS9tc2Mvd2ZvbWMvcHJvamVjdC9CdWlsZC5zY2FsYQBlcG9zdGZpeCBvcGVyYXRvciAhISBzaG91bGQgYmUgZW5hYmxlZApieSBtYWtpbmcgdGhlIGltcGxpY2l0IHZhbHVlIHNjYWxhLmxhbmd1YWdlLnBvc3RmaXhPcHMgdmlzaWJsZS4B
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcRKiAgp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9Vc2Vycy9hbm9uL0Rlc2t0b3AvYWkvbXNjL3dmb21jL3Byb2plY3QvdGFyZ2V0L3NjYWxhLTIuMTAvc2J0LTAuMTMvY2xhc3Nlc3QAAS8=
